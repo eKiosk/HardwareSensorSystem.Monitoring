@@ -1,7 +1,7 @@
 ﻿namespace HardwareSensorSystem.Monitoring.Models
 {
     /// <summary>
-    /// Represents the link between a usergroup an a terminal.
+    /// Represents the link between a usergroup and a terminal.
     /// </summary>
     public class UserGroupTerminal
     {
